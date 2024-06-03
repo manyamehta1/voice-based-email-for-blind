@@ -1,0 +1,6 @@
+renovate.json
+{
+  "extends": [
+    "config:base"
+  ]
+}

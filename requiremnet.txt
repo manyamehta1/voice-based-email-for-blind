@@ -1,0 +1,4 @@
+SpeechRecognition
+beautifulsoup4
+gTTS
+pyglet
